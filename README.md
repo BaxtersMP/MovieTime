@@ -5,7 +5,7 @@ We're gonna learn some things and make some pretty cool shit.
 ## Dependencies
 You'll need some package managers.
 
-- `npm`: JS related package (https://www.npmjs.com/get-npm)
+- `npm`: JS related packages (https://www.npmjs.com/get-npm)
 - `pip`: Python related packages (make sure pip is up-to-date with `python -m pip install --upgrade pip`)
 
 ## Setup
