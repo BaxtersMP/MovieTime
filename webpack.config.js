@@ -3,10 +3,10 @@ const path = require('path')
 
 const config = {
     entry: {
-        app: [ path.resolve(__dirname, '../client/js/index.js') ]
+        app: [ path.resolve(__dirname, 'app/client/js/index.js') ]
     },
     output: {
-        path: path.join(__dirname, '../dist'),
+        path: path.join(__dirname, 'app/dist'),
         filename: 'bundle.js',
     },
     resolve: {

@@ -16,7 +16,7 @@ From the project root directory run:
 # install `virtualenv` to setup a virtual environment
 pip install virtualenv
 
-# create your cirutala environment, `venv`
+# create your virtual environment, `venv`
 virtualenv venv
 
 # activate your new virtual environment
