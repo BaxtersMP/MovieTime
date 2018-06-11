@@ -50,4 +50,7 @@ npm run watch
 python .\app\server\server.py
 ```
 
-Once both are running, visit http://localhost:5000/ in the browser. 
+Once both are running, visit http://localhost:5000/ in the browser.
+
+## Helpful Tools
+- 'DB Browser': Database Broswer for SQLite
