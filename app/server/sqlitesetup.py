@@ -21,5 +21,5 @@ def data_entry():
     c.close()
     conn.close()
 
-create_table()
-data_entry()
+#create_table()
+#data_entry()
